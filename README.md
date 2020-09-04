@@ -1,10 +1,8 @@
 # React-app-cli
 
 > A solution to be synced while creating react app
+> <a href="https://dev.to/amankumarsingh01/nodejs-terminal-app-4nd6" target="_blank">**Go here**</a>
 
-> ideally one sentence
-
-> include terms/tags that can be searched
 
 ## Table of Contents (Optional)
 
